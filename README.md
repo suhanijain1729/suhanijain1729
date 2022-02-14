@@ -9,7 +9,6 @@
 - 📫 How to reach me: suhanijain1729@gmail.com
 - ⚡ Fun fact: I like to play basketball and to watch Kdrams
 -->## 🚀 Languages and Tools:
-
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -22,4 +21,3 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=suhanijain1729&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
