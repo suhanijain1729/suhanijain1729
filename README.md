@@ -32,5 +32,19 @@
   <a href="https://github.com/Suhanijain1729/github-readme-stats"><img alt="Suhani jain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhanijain1729&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
+     <br/>
+<br/>
+
+<a href="https://github.com/Suhanijain1729/github-readme-activity-graph"><img alt="Suhani jain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Suhanijain1729&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+     <a href = "https://www.instagram.com/jainsuhani._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+     
+     </p>
+     
 
 
